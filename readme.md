@@ -5,7 +5,7 @@
   ## Deployed Page
 https://richardbaier.github.io/original-portfolio/
   ## Screenshot
-![screenshot](./src/public/images/screenshot.png)
+![screenshot](./public/assets/img/screenshot.png)
   ## Table of Contents
 - [Note Taker](#note-taker)
   - [Description](#description)
